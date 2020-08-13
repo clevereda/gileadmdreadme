@@ -10,7 +10,7 @@ GileadMD is a medical records web application that was created to serve medical 
 ## Screen Shots
 
 ![home page](homepage.jpeg)
-![Provider Dashboard](providerdashboard.jpeg)
+![Provider Dashboard](F11B3D15-B88E-4CC8-B976-1C490DB3DE77_1_201_a.jpeg)
 ![Add Provider](addprovider.jpeg)
 ![Patient Search](patientsearch.jpeg)
 ![Vitals Form](vitalsform.jpeg)
